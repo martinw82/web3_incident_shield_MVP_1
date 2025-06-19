@@ -13,7 +13,7 @@ import { Checkbox } from '@/components/ui/checkbox';
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle, DialogTrigger } from '@/components/ui/dialog';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Progress } from '@/components/ui/progress';
-import { FileText, Download, Share2, Eye, BarChart3, Shield, AlertTriangle, CheckCircle, Clock, Users, MessageSquare, BookOpen, TrendingUp, Target, Zap, Calendar, FileCheck, Globe, Printer } from 'lucide-react';
+import { FileText, Download, Share2, Eye, BarChart3, Shield, AlertTriangle, CheckCircle, Clock, Users, MessageSquare, BookOpen, TrendingUp, Target, Zap, Calendar, FileCheck, Globe, Printer, Settings } from 'lucide-react';
 import { toast } from 'sonner';
 
 interface ReportSection {
